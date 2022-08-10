@@ -47,4 +47,4 @@ Sin embargo, en la consola TinyGS, la transmisión es recibida exitosamente:
 
 Los bytes recibidos **50727565626120746578746f206c6962726520434533534e41** son la representación *HEX* del string original "Prueba texto libre CE3SNA".
 
-La recepción de estos bytes no genera un aviso por parte del **TinyGS Personal Bot**, ni se refleja en la página web de la estación
+La recepción de estos bytes no genera un aviso por parte del **TinyGS Personal Bot**, ni se refleja en la página web de la estación, por lo que podemos asumir que el Bot referido sólo envía mensajes en el caso de recibir la frase "**TinyGS-test**".
